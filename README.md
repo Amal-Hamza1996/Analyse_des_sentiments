@@ -20,7 +20,7 @@ the Dataset contains the following columns:
 The goal is to evaluate your ability to treat a given dataset containing a Natural Language Processing
 task.
 
-# Step:
+# Steps:
 
 1-General Statistics: Describe the dataset using metrics and visualizations.
 
